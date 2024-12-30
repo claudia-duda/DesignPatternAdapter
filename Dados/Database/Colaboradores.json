@@ -1,0 +1,58 @@
+﻿  [
+    {
+      "Id": 1,
+      "Nome": "João Silva",
+      "Area": "TI",
+      "Salario": 2500.50,
+      "ContaBancaria": 12345
+    },
+    {
+      "Id": 2,
+      "Nome": "Maria Santos",
+      "Area": "RH",
+      "Salario": 3200.75,
+      "ContaBancaria": 67890
+    },
+    {
+      "Id": 3,
+      "Nome": "Pedro Oliveira",
+      "Area": "ATENDIMENTO",
+      "Salario": 2800.00,
+      "ContaBancaria": 54321
+    },
+    {
+      "Id": 4,
+      "Nome": "John",
+      "Area": "ATENDIMENTO",
+      "Salario": 1899.0,
+      "ContaBancaria": 12345
+    },
+    {
+      "Id": 5,
+      "Nome": "Vitoria",
+      "Area": "RH",
+      "Salario": 2840.0,
+      "ContaBancaria": 33256
+    },
+    {
+      "Id": 6,
+      "Nome": "Fátima",
+      "Area": "TI",
+      "Salario": 3830.0,
+      "ContaBancaria": 767534
+    },
+    {
+      "Id": 7,
+      "Nome": "Carlos",
+      "Area": "ATENDIMENTO",
+      "Salario": 1803.0,
+      "ContaBancaria": 24567
+    },
+    {
+      "Id": 8,
+      "Nome": "Jorge",
+      "Area": "RH",
+      "Salario": 2820.0,
+      "ContaBancaria": 8846421
+    }
+  ]
